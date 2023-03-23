@@ -1,4 +1,4 @@
-```Dockerfile
+
       #########################################
       #########################################
       ### Dockerfile to run some Some Build ###
@@ -70,4 +70,4 @@
       # Set the entrypoint #
       ######################
       ENTRYPOINT ["/action/lib/entrypoint.sh"]
-      ```
+
